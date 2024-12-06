@@ -12,7 +12,7 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from JEVIC import CarParkTool
+from EVIC import CarParkTool
 
 __CHANNEL_USERNAME__ = "Jvcrlf"
 __GROUP_USERNAME__   = "Jvcrlf"
